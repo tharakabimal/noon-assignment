@@ -1,0 +1,34 @@
+.ul {
+    padding: 0;
+}
+
+.li {
+    list-style-type: none;
+}
+
+.a {
+    text-decoration: none;
+    color: #d0021b;
+}
+.a:hover{
+	text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar-default{
+background-color:#fff;
+border-color:none;
+}
+
+.active {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.nav-bar li {
+    margin-right: 15px;
+}

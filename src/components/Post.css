@@ -1,0 +1,64 @@
+.container{
+    padding-right: 0px;
+   padding-left: 0px;
+}
+
+.img{
+   width: 560px;
+   height: 400px;
+
+}
+.user{
+   color: #262626;
+   text-decoration: none;
+   margin: 7px 0 7px 0;
+   font-size: 14px;
+   font-weight: 600;
+}
+.userName:hover {
+   color: #262626;
+   text-decoration: none;
+}
+
+.likes{
+
+   margin-left: 8px;
+}
+
+.LikeButton__root {
+   border: none;
+   outline: none;
+   font-size: 22px;
+  /* padding: 0;*/
+   margin: 0;
+   background-color: Transparent;
+   background-repeat:no-repeat;
+   border: none;
+   cursor:pointer;
+   overflow: hidden;
+   outline:none;
+}
+ 
+.LikeButton__icon--liked {
+   border: none;
+   outline: none;
+   font-size: 22px;
+   /*padding: 0;*/
+   margin: 0;
+   background-color: Transparent;
+   background-repeat:no-repeat;
+   border: none;
+   cursor:pointer;
+   /*overflow: hidden;*/
+   outline:none;
+   color: #ED4956;
+}
+
+.fa{
+   padding-right: 2px;
+}
+
+.fa-heart-o:hover{
+   color: #ED4956;
+
+}
